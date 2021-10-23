@@ -1,5 +1,6 @@
 #include <iostream>
 
-int main() {
+int main() { 
+    // documentation is important
     std::cout << "hello, world\n!"; 
 }
